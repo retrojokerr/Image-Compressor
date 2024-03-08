@@ -1,1 +1,1 @@
-# Image-Compressor
+# Image-Compression-algorithm
